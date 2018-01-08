@@ -1,0 +1,41 @@
+/*
+    Programming Assignment 3 - CIT 285
+    Develop a multimidia simulation of a slot machine. 
+    
+    @Created by Olga Gavrylchenko, 11/15/2017
+ */
+
+#bstop {
+    -fx-background-color: #ff3333;
+    -fx-background-radius: 25;
+    -fx-text-fill: #ffffff;
+}
+
+#bstart{
+    -fx-background-color: #e6b800;
+    -fx-background-radius: 25;
+    -fx-text-fill: #ffffff;
+}
+
+#breset{
+    -fx-background-color: #4d79ff;
+    -fx-background-radius: 25;
+    -fx-text-fill: #ffffff;
+    
+}
+
+
+.dialog-pane .button {
+ -fx-font-family: 'Bree Serif', sans-serif; 
+-fx-font-size: 16;
+-fx-font-weight: bold;
+-fx-text-fill: #4d0026;
+-fx-background-color: #ffffff;
+}
+
+.dialog-pane:header .header-panel {
+  -fx-font-family: 'Bree Serif', sans-serif; 
+  -fx-font-size: 16;
+  -fx-font-weight: bold;
+  -fx-text-fill: #4d0026;
+}
